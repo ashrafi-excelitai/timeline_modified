@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "149b2424b33e398e3a93847e73348782e8570ec68f47052dbcac1deab06b91dd"
+build_start_time: [1670901154, 315721035]
+build_end_time: [1670901175, 830284118]
+inputs:
+  "/Users/macbook/StudioProjects/timelines_modified/macos/Flutter/GeneratedPluginRegistrant.swift": [1670901111, 714399337]
+  "/Users/macbook/StudioProjects/timelines_modified/macos/Runner/AppDelegate.swift": [1670807346, 0]
+  "/Users/macbook/StudioProjects/timelines_modified/macos/Runner/MainFlutterWindow.swift": [1670807346, 0]
